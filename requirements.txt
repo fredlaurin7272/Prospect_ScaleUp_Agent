@@ -1,0 +1,5 @@
+# To run
+streamlit
+crewai
+pysqlite3
+pysqlite3-binary
